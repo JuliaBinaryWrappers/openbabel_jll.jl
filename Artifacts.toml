@@ -1,0 +1,288 @@
+[[openbabel]]
+arch = "aarch64"
+git-tree-sha1 = "4c4c476fe6bfc2280966bb5746c0b87ddd602281"
+os = "macos"
+
+    [[openbabel.download]]
+    sha256 = "ca652161d7b498c07075a0dbd472eb916e4c2aabd75c3669e113944a5fa71d5a"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.aarch64-apple-darwin.tar.gz"
+[[openbabel]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d15e26a3249789417b32f232507482c28369345"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "0bf67d4dad1b084a4287a15e821cf3be780f89a3d46ca714faa0255e66b76ee6"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[openbabel]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d35bed934a4cb99d55ce2d3e108cd7b9b75fec1f"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "0831a3a727b9955af419c5315d1be5573df769807bb44d6e6dd06d2410723c8d"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[openbabel]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3dadf4d7b75af44d398dc343c5f89eb6a0e51bf5"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "2115c4e6299c61fa9b062a70d92cdb01e566e9081aec2f12d93b9233e736479a"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.aarch64-linux-musl-cxx03.tar.gz"
+[[openbabel]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "89f73ff8095a39071748e293870ea91e0f541e7e"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "67e98f2013913545aaed77c5f934755781c8b5655f3d078e4c87a07e54e31619"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.aarch64-linux-musl-cxx11.tar.gz"
+[[openbabel]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e091cb22e26169db1161cf75333c4a7a48160de"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "fdd8d018843441c54ada0bde11b2eb4dba155f12e55f66fb608a2a35f76a7f55"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[openbabel]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01ab99e7ad349e2f58d0da02a880a7062e527184"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "bf7b163421ddd927ba835c24c63bf6019f157fd5d71bd3d96444046db85a4951"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[openbabel]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7c97394f5eb5997fa40862b6beb235f8f389ebae"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "2e8429285ecd8306e34bb6b7d89b2218407a9002eeda53086862d78b98e06175"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[openbabel]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "752e72b4472049e1df9340bf9931f05e531dc7e7"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "26079dfe5b4a3ba1bafac872726c3ded133bddc992f136a25794a7ea75c38834"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[openbabel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c0bdf6fbc1f197568fa320251fca5aa215e54701"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "7a45f4ef15f1f0b4ce73943fcd6da90c683dccd4c4d7b1adf56da63005662818"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[openbabel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0521608d6fa135251abbfeaefa4162617956199e"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "8609752c41030658fbb0ffdc5120a1f55f5685b7fc2cba7cf1865fd0efe0e88d"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[openbabel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "99e2cf8b73960dc4e93a6e662ee900d653cc0343"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "1d09da0d904902588095c76198d998d0039d41ab533804a1084f0135d8dd23ca"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[openbabel]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0392f34c4f2497b28cff0889a011a34f2d0c06d"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "7ec04c745713030b52b2837be892cbe70da7f7aae8df19292a458d71fc04009d"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[openbabel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc53199f86f5950a2bdb58566067e556bd6036de"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "d22b727653d201c89b976f007711779e7def87ab4ed8da41186d402aa2e5f11e"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.i686-linux-gnu-cxx03.tar.gz"
+[[openbabel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b2982a9375de126879962121f4f8405aeb8bbbb"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "600bdd1cfbb70a66a6419347a471650191cbf8706c969d724b9a865a31eb4725"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.i686-linux-gnu-cxx11.tar.gz"
+[[openbabel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "29e6de9f0109eb99643a08afe9d3146f83929421"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "d42523287542ef99ecd7982498e0f29616ecf6e9f4f7f0294e57ab8d11f9974a"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.i686-linux-musl-cxx03.tar.gz"
+[[openbabel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8dd3c532575f382e274529cb7a35d1c065c63395"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "efe5f0c346841de8fb46ddda5c9261f57fcee95636d65acb98011257c7494852"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.i686-linux-musl-cxx11.tar.gz"
+[[openbabel]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe1099abc0d67d2df0dce8a702dbe07e5a4b7733"
+os = "windows"
+
+    [[openbabel.download]]
+    sha256 = "b16bb1a4ed8008193326b4a6a7f1f831efb10d7521871018f817f034d391e336"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.i686-w64-mingw32-cxx03.tar.gz"
+[[openbabel]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d7a579ac4b1391b30e4df08dbf7a964f713ff8b"
+os = "windows"
+
+    [[openbabel.download]]
+    sha256 = "f33b71f75f238062b3dd9a094d67873d8b0075d79bd2815c2b0e1d30857c0ec6"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.i686-w64-mingw32-cxx11.tar.gz"
+[[openbabel]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "761429d9bfc8f0cc28b225d1f3c4ba80a9c63da9"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "f93fe5dcbd40220214164be0f0e0728e253a27f9c5d2035abeb6f53f86a754a8"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[openbabel]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "36f9494272b1fe05fcecdc50c7a6d83831735ace"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "d66bd4d2e29b0b116aa9e17305a022980de7a8f36276e29bf642b3f33c58247f"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[openbabel]]
+arch = "x86_64"
+git-tree-sha1 = "994c0e5c8b85224f608815d7a8c8abf34c6d5ccb"
+os = "macos"
+
+    [[openbabel.download]]
+    sha256 = "c4094f91c18c626b21c663e0f45c48f1ca016e5d5e3740c3a415654d4f6af54f"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.x86_64-apple-darwin.tar.gz"
+[[openbabel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7afa8cd6c97515707d1c41f915d308418d8db27e"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "7fb6d816c4640d92b0ebab5fa29a8766854c0557a476989bc8016866913bc41f"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[openbabel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1eb34813a945111198356e33b5f2034cc7990ab"
+libc = "glibc"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "5b5c0e58ff140d98dce2498b9553652d357a4e365604be6163c4dbb08eb9bbcc"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[openbabel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9dbf5a6ed9db0a68530950c45f9da0c07ff8c20f"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "2bbca9f07cd67434c5cdf61f648227920e8959a46c9a08b8135ea4ab650019d5"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.x86_64-linux-musl-cxx03.tar.gz"
+[[openbabel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f72d0e3abc774da1e092a7c3274fa6a91110e38c"
+libc = "musl"
+os = "linux"
+
+    [[openbabel.download]]
+    sha256 = "b5b606116150da161b70b8a712a95e4893c78b0fb839966b5a7686a99b104d8a"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.x86_64-linux-musl-cxx11.tar.gz"
+[[openbabel]]
+arch = "x86_64"
+git-tree-sha1 = "638d9f60f22e10ea9f83fe7bed1e3ad5eea303e3"
+os = "freebsd"
+
+    [[openbabel.download]]
+    sha256 = "e8cb29d9dc8bddac6cd33b7d4208c423e6fd24e93a4f92cd419ae3e84aabb3a7"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.x86_64-unknown-freebsd.tar.gz"
+[[openbabel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10a8d06b7830247003ad4a8701112c1c589a3907"
+os = "windows"
+
+    [[openbabel.download]]
+    sha256 = "86176cbe7facd4479883f56f3287049ecc3b768c2fc52d47cd01a346a2586ac1"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[openbabel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7091559560677a7dbe1e124e833296ac1971f4d3"
+os = "windows"
+
+    [[openbabel.download]]
+    sha256 = "cf2ccbf249cf15d435f3c6de1395452410947959e148a562287380ff5492077d"
+    url = "https://github.com/JuliaBinaryWrappers/openbabel_jll.jl/releases/download/openbabel-v3.1.1+0/openbabel.v3.1.1.x86_64-w64-mingw32-cxx11.tar.gz"
